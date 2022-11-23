@@ -1,4 +1,4 @@
-# workout_fitness UI Tela de login e cadastro
+# monster_workout UI Tela de login e cadastro
 
 A new Flutter project.
 
